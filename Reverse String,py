@@ -1,0 +1,6 @@
+## 2.read a string and print the reverse of it
+## Eg  string = Hello 
+
+
+string = "Hello"[::-1]
+print (string)
