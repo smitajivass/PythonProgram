@@ -1,0 +1,30 @@
+## Check if the phrase "Smita" is present in the following text
+
+
+txt = "My name is Smita"
+x = "smita" in txt
+print(x)
+
+## Result :True
+
+txt = "My name is Smita"
+x = "ss" in txt
+print(x)
+
+## Result :False
+
+
+## Check if the phrase "ss" is not present in the following text
+
+
+txt = "My name is Smita"
+x = "ss" not in txt
+print(x)
+
+## Result :True
+
+txt = "My name is Smita"
+x = "smita" not in txt
+print(x)
+
+## Result :False
