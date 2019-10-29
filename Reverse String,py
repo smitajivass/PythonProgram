@@ -2,5 +2,6 @@
 ## Eg  string = Hello 
 
 
+
 string = "Hello"[::-1]
 print (string)
