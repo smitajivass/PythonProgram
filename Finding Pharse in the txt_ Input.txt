@@ -1,0 +1,5 @@
+
+Enter the text :Check if the phrase is present or not in the text
+
+Enter the pharse you want to search :present
+
